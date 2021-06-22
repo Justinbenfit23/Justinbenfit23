@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justinbenfit23
-See a Portfolio of my learning at my Github Pages Site: https://justinbenfit23.github.io/Justinbenfit23/
+See a Portfolio of my learning at my Github Pages Site: https://justinbenfit23.github.io/
 
 
 <!---
