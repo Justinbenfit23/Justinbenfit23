@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Justinbenfit23
-See a Portfolio of my learning at my Github Pages Site: https://justinbenfit23.github.io/
+## Hi, I’m Justin. By day I am a lowly data analyst but at night... I'm still mostly just a data analyst who dabbles in predictive models and web scraping
+## Check out my website! --> https://justinbenfit23.github.io/
 
 
 <!---
