@@ -1,4 +1,4 @@
-## Hi, I’m Justin. By day I am a lowly data analyst. But at night... I'm still mostly just a data analyst... but a data analyst who builds in predictive models and web scraping apps!
+## Hi, I’m Justin. By day I am a lowly data analyst. But at night... I'm still mostly just a data analyst... but a data analyst who builds predictive models and web scraping apps!
 ## Check out my website! --> https://justinbenfit23.github.io/
 
 
